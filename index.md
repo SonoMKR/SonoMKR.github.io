@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SonoMKR
-published: false
+published: true
 ---
 
 # [](#header-1)The Project
